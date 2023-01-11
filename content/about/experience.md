@@ -38,7 +38,7 @@ experience:
   - title: Pipeline Engineering
     company: Sparx* - A Virtuos Studio
     company_url: ''
-    company_logo: sparx
+    company_logo:  org-x
     location: Ho Chi Minh, Vietnam.
     date_start: '2018-10-01'
     date_end: '2021-01-31'
