@@ -25,7 +25,7 @@ experience:
   - title: Master’s Student
     company: Chonnam National University
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-cnu
     location: Gwanju, South Korea.
     date_start: '2021-03-01'
     date_end: '2021-02-28'
@@ -38,7 +38,7 @@ experience:
   - title: Pipeline Engineering
     company: Sparx* - A Virtuos Studio
     company_url: ''
-    company_logo: org-x
+    company_logo: org-hcmus
     location: Ho Chi Minh, Vietnam.
     date_start: '2018-10-01'
     date_end: '2021-01-31'
@@ -51,7 +51,7 @@ experience:
   - title: Intership
     company: Global Cybersoft Vietnam
     company_url: ''
-    company_logo: org-x
+    company_logo: org-gcs
     location: Ho Chi Minh, Vietnam.
     date_start: '2017-07-01'
     date_end: '2027-09-01'
