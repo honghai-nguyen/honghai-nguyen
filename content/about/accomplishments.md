@@ -29,7 +29,7 @@ item:
     description: ''
     organization: International Conference on Smart Media & Applications 2022
     organization_url: ''
-    title: 'Best Paper Award'
+    title: Best Paper Award
     url: ''
   - certificate_url: https://drive.google.com/file/d/1pDs3JbuguSxZWGeVOCo1HqcSW2lUTgsI/view?usp=sharing
     date_end: ''
@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW)
     organization_url: https://www.edx.org
-    title: 'hird Place'
+    title: Third Place
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://drive.google.com/file/d/1KyUIylM5DdJy-J4iwQvATUnM7RmC__Ci/view?usp=sharing
     date_end: '2021-09-01'
@@ -45,7 +45,7 @@ item:
     description: ''
     organization: International Conference on Smart Media & Applications 2021
     organization_url: ''
-    title: 'Best Paper Award'
+    title: Best Paper Award
     url: ''
 
 design:
