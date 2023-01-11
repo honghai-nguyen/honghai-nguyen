@@ -40,8 +40,8 @@ item:
     title: Third Place
     url: ''
   - certificate_url: 
-    date_end: '2021-09-01'
-    date_start: ''
+    date_end: ''
+    date_start: '2021-09-01'
     description: ''
     organization: International Conference on Smart Media & Applications 2021
     organization_url: ''
