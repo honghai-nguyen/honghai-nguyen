@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://drive.google.com/file/d/10SH5j-j1hsKx79bVwn2LWRRpQK8fUhxP/view?usp=sharing
+  - certificate_url: (https://drive.google.com/file/d/10SH5j-j1hsKx79bVwn2LWRRpQK8fUhxP/view?usp=sharing)
     date_end: ''
     date_start: '2022-10-01'
     description: ''
@@ -31,15 +31,15 @@ item:
     organization_url: ''
     title: Best Paper Award
     url: ''
-  - certificate_url: https://drive.google.com/file/d/1pDs3JbuguSxZWGeVOCo1HqcSW2lUTgsI/view?usp=sharing
+  - certificate_url: (https://drive.google.com/file/d/1pDs3JbuguSxZWGeVOCo1HqcSW2lUTgsI/view?usp=sharing)
     date_end: ''
     date_start: '2022-06-19'
     description: ''
     organization: Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW)
-    organization_url: https://www.edx.org
+    organization_url: ''
     title: Third Place
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://drive.google.com/file/d/1KyUIylM5DdJy-J4iwQvATUnM7RmC__Ci/view?usp=sharing
+    url: ''
+  - certificate_url: (https://drive.google.com/file/d/1KyUIylM5DdJy-J4iwQvATUnM7RmC__Ci/view?usp=sharing)
     date_end: '2021-09-01'
     date_start: ''
     description: ''
