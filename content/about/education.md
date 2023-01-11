@@ -25,7 +25,7 @@ experience:
   - title: M.E. in Artificial Intelligence
     company: Chonnam National University, South Korea.
     company_url: ''
-    company_logo: org-x
+    company_logo: chonnam
     location: Gwangju, South Korea.
     date_start: '2021-03-01'
     date_end: '2023-02-01'
