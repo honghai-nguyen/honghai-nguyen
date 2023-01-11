@@ -47,6 +47,16 @@ experience:
         * R&D automation scripts and tools inside and outside a 3D application to help the artist can be quickly worked on.
         * Installation and troubleshooting of software, plugins, and scripts.
         * Supporting producers and team leaders in training for newbies.
+   
+   - title: Intership
+    company: Global Cybersoft Vietnam
+    company_url: ''
+    company_logo: org-x
+    location: Ho Chi Minh, Vietnam.
+    date_start: '2017-07-01'
+    date_end: '2027-09-01
+    description: |2-
+        *  Motorcycle detection: Research histograms of oriented gradients (HOG), local binary patterns (LBP) features and support vector machines (SVM) for detection.
 
 design:
   columns: '1'
