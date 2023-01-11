@@ -32,7 +32,7 @@ bio: My research interests are computer vision, time series analysis, sentiment 
 #    institution: Chonnam National University, South Korea.
 #    year: 03/2021 - 02/2023
 #  - course: B.S. in Mathematics and Computer Science
-#    institution: Vietnam National University, HoChiMinh City - University of Science (HCMUS).
+#    institution: Vietnam National University, Ho Chi Minh City - University of Science (HCMUS).
 #    year: 09/2014 -09/2018
 
 # Social/Academic Networking
