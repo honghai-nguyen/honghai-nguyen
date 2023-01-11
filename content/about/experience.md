@@ -47,7 +47,6 @@ experience:
         * R&D automation scripts and tools inside and outside a 3D application to help the artist can be quickly worked on.
         * Installation and troubleshooting of software, plugins, and scripts.
         * Supporting producers and team leaders in training for newbies.
-   
   - title: Intership
     company: Global Cybersoft Vietnam
     company_url: ''
