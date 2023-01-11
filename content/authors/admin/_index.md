@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Nguyen Hong Hai
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,32 +10,31 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are computer vision, time series analysis, sentiment analysis, and cognitive load. Currently, I am working on
+mental workload estimation to apply it in brain-computer interfaces.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Computer vision.
+#- Time series analysis.
+#- Sentiment analysi.
+#- Cognitive load.
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: M.E. in Artificial Intelligence
+#    institution: Chonnam National University, South Korea.
+#    year: 03/2021 - 02/2023
+#  - course: B.S. in Mathematics and Computer Science
+#    institution: Vietnam National University, HoChiMinh City - University of Science (HCMUS).
+#    year: 09/2014 -09/2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,17 +43,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'about/#contact' # For a direct email link, use "mailto:honghaik14@gmail.com".
+  - icon: skype
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: live:honghaik14
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/honghai-nguyen
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
-#  link: https://github.com/gcushen
+#  link: https://github.com/honghai-nguyen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,8 +65,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hong-Hai Nguyen received his B.S. degree from the Department of Mathematics and Computer Science, Ho Chi Minh City University of Science (VNUHCM), Vietnam, in 2018. He joined PR lab in March 2021. He is currently pursuing toward the M.S. degree from the Department of Artificial Intelligence Convergence at Chonnam National University, South Korea. His research interests include Pattern Recognition, Sentiment Analysis, and Cognitive Load.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
