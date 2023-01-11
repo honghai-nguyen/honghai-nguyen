@@ -27,20 +27,20 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Gwangju, South Korea.
-    date_start: '2021-03'
-    date_end: '2023-02'
+    date_start: '2021-03-01'
+    date_end: '2023-02-01'
     description: |2-
-        *  GPA: 8.09/10
-        *  Thesis title: Face recognition based on partial face.
-        *  Supervisor: Prof. Pham The Bao.
+        *  GPA: 4.29/4.5
+        *  Thesis title: Multi-space Fusion for Mental Workload Estimation based on Physiological Signal.
+        *  Supervisor: Prof. Soo-Hyung Kim.
 
   - title: B.S. in Mathematics and Computer Science
     company: Vietnam National University, Ho Chi Minh City - University of Science (HCMUS).
     company_url: ''
     company_logo: org-x
     location: Ho Chi Minh, Viet Nam.
-    date_start: '2014-09'
-    date_end: '2018-09'
+    date_start: '2014-09-01'
+    date_end: '2018-09-01'
     description: |2-
         *  GPA: 8.09/10
         *  Thesis title: Face recognition based on partial face.
