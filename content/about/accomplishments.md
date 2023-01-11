@@ -36,7 +36,7 @@ item:
     date_start: '2022-06-19'
     description: ''
     organization: Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW)
-    organization_url: ''
+    organization_url: 'https://ibug.doc.ic.ac.uk/resources/cvpr-2022-3rd-abaw/'
     title: Third Place
     url: ''
   - certificate_url: https://drive.google.com/file/d/1KyUIylM5DdJy-J4iwQvATUnM7RmC__Ci/view?usp=sharing
