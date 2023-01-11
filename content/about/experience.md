@@ -42,7 +42,7 @@ experience:
     location: Ho Chi Minh, Vietnam.
     date_start: '2018-10-01'
     date_end: '2021-01-31'
-    description: 
+    description: |2-
         * Research and development of tools based on potential software.
         * R&D automation scripts and tools inside and outside a 3D application to help the artist can be quickly worked on.
         * Installation and troubleshooting of software, plugins, and scripts.
