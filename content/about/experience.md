@@ -25,7 +25,7 @@ experience:
   - title: Master’s Student
     company: Chonnam National University
     company_url: ''
-    company_logo: ''
+    company_logo: org-x
     location: Gwanju, South Korea.
     date_start: '2021-03-01'
     date_end: '2021-02-28'
