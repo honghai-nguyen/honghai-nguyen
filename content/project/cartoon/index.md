@@ -5,5 +5,4 @@ tags:
   - CV
 date: 2022-03-01
 external_link: ''
-demo: <img src="demo.gif" width="90%" height="100%"/>
 ---
