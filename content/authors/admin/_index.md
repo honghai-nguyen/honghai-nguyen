@@ -14,12 +14,11 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 
+#- name: ""
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:My research interests are computer vision, time series analysis, sentiment analysis, and cognitive load. Currently, I am working on
-mental workload estimation to apply it in brain-computer interfaces.
+bio: My research interests are computer vision, time series analysis, sentiment analysis, and cognitive load. Currently, I am working on mental workload estimation to apply it in brain-computer interfaces.
 
 #interests:
 #- Computer vision.
