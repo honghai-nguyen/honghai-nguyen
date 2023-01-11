@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2022-10-01'
     description: ''
-    organization: 'International Conference on Smart Media & Applications 2022.'
+    organization: International Conference on Smart Media & Applications 2022
     organization_url: ''
     title: 'Best Paper Award'
     url: ''
@@ -35,7 +35,7 @@ item:
     date_end: ''
     date_start: '2022-06-19'
     description: ''
-    organization: 'Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW)'
+    organization: Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW)
     organization_url: https://www.edx.org
     title: 'hird Place'
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
@@ -43,7 +43,7 @@ item:
     date_end: '2021-09-01'
     date_start: ''
     description: ''
-    organization: 'International Conference on Smart Media & Applications 2021.'
+    organization: International Conference on Smart Media & Applications 2021
     organization_url: ''
     title: 'Best Paper Award'
     url: ''
