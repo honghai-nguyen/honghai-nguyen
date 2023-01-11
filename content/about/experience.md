@@ -32,7 +32,7 @@ experience:
     description: |2-
  
         * Mental Workload Estimation: Experiment with STEW dataset. We conducted experiments on classification and regression for Mental workload.
-        * Stress Estimation: Experiment with Ulm-TSST dataset, our work in Multimodal Emotional Stress Sub-challenge in Multimodal Sentiment Analysis Challenge (MuSe).
+        * Stress Estimation: Experiment with Ulm-TSST dataset, We conducted experiments on Valence-Arousal estimation in Multimodal Emotional Stress Sub-challenge of Multimodal Sentiment Analysis Challenge (MuSe).
         * Valence-Arousal Estimation: Experiment on the Aff-Wild2 dataset. We achieved 3rd place in Task 1 - Valence-Arousal Estimation in Workshop and Competition on Affective Behavior Analysis in-the-wild. Project page.
 
   - title: Pipeline Engineering
