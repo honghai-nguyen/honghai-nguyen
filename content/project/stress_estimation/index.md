@@ -1,5 +1,5 @@
 ---
-title: Stress Estimation.
+title: Stress Estimation
 summary: Sentiment analysis is an aspect momentous for application in the future. Especially, emotional stress estimation helps improve our life. 
     
 tags:
