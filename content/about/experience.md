@@ -57,18 +57,6 @@ experience:
     date_end: '2027-09-01'
     description: |2-
         *  Motorcycle detection: Research histograms of oriented gradients (HOG), local binary patterns (LBP) features and support vector machines (SVM) for detection. 
-        *  ```bibtex
-            @article{lim2018stew,
-              title={STEW: Simultaneous task EEG workload data set},
-              author={Lim, WL and Sourina, O and Wang, Lipo P},
-              journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
-              volume={26},
-              number={11},
-              pages={2106--2114},
-              year={2018},
-              publisher={IEEE}
-            }
-            ```
 
 design:
   columns: '1'
