@@ -25,7 +25,7 @@ experience:
   - title: International Conference on Smart Media & Applications 2022.
     company: ''
     company_url: ''
-    company_logo: ''
+    company_logo:  org-x
     location: Saipan, USA.
     date_start: ''
     date_end: '2022-10-20'
@@ -36,7 +36,7 @@ experience:
   - title: Affective Behavior Analysis in-the-wild (ABAW) Challenge - CVPR Workshop 2022
     company: ''
     company_url: ''
-    company_logo:  org-x
+    company_logo: org-x
     location: New Orleans, USA.
     date_start: ''
     date_end: '2022-06-19'
@@ -46,7 +46,7 @@ experience:
   - title: International Conference on Smart Media & Applications 2021.
     company: ''
     company_url: ''
-    company_logo: ''
+    company_logo:  org-x
     location: Gunsan, South Korea.
     date_start: ''
     date_end: '2022-09-20'
