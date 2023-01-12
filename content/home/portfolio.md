@@ -30,6 +30,10 @@ content:
       tag: '*'
     - name: EEG
       tag: EEG
+    - name: Multimodal Fusion
+      tag: Multimodal Fusion
+    - name: Deep Learning
+      tag: Deep Learning
 
 
 design:
