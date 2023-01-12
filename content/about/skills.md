@@ -30,7 +30,6 @@ experience:
     date_start: ''
     date_end: '2022-10-20'
     description: |2-
- 
         * E.-B. Choi, Nguyen, Hong-Hai, T. N. Nguyen, and S.-H. Kim, “Stress analysis based on feature-level late fusion,” in Proc. Int. Conf. Smart Media and Applications (SMA2022), Oct. 2022., 2022, pp. 110–114.
 
   - title: Affective Behavior Analysis in-the-wild (ABAW) Challenge - CVPR Workshop 2022
@@ -51,7 +50,6 @@ experience:
     date_start: ''
     date_end: '2022-09-20'
     description: |2-
- 
         * Nguyen, Hong-Hai, V.-T. Huynh, H.-J. Yang, G.-S. Lee, and S.-H.Kim, “Mafcl: Multimodal attention fusion with combined loss for sentiment recognition in stress-induced circumstances,” in Proc. Int. Conf. Smart Media and Applications (SMA2021), Sep. 2021., 2021, pp. 16–19.
 
 design:
