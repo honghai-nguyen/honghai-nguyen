@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: skills
+widget: Experience
 
 # This file represents a page section.
 headless: true
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
+title: Publication
 subtitle:
 
 # Date format for experience
