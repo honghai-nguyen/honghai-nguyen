@@ -28,12 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: EEG
+    - name: Signal Processing
       tag: EEG
-    - name: Multimodal Fusion
-      tag: Multimodal Fusion
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Computer Vision
+      tag: Computer Vision
+
 
 
 design:
