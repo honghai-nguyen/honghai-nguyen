@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Publication
+title: Publications
 subtitle:
 
 # Date format for experience
@@ -22,41 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Master’s Student
-    company: Chonnam National University
+  - title: International Conference on Smart Media & Applications 2022.
+    company: ''
     company_url: ''
-    company_logo: chonnam
-    location: Gwanju, South Korea.
-    date_start: '2021-03-01'
-    date_end: '2021-02-28'
+    company_logo: ''
+    location: Saipan, USA.
+    date_start: ''
+    date_end: '2022-10-20'
     description: |2-
  
-        * Mental Workload Estimation: Experiment with STEW dataset. We conducted experiments on classification and regression for Mental workload.
-        * Stress Estimation: Experiment with Ulm-TSST dataset, We conducted experiments on Valence-Arousal estimation in Multimodal Emotional Stress Sub-challenge of Multimodal Sentiment Analysis Challenge (MuSe).
-        * Valence-Arousal Estimation: Experiment on the Aff-Wild2 dataset. We achieved 3rd place in Task 1 - Valence-Arousal Estimation in Workshop and Competition on Affective Behavior Analysis in-the-wild. Project page.
+        * E.-B. Choi, Nguyen, Hong-Hai, T. N. Nguyen, and S.-H. Kim, “Stress analysis based on feature-level late fusion,” in Proc. Int. Conf. Smart Media and Applications (SMA2022), Oct. 2022., 2022, pp. 110–114.
 
-  - title: Pipeline Engineering
-    company: Sparx* - A Virtuos Studio
+  - title: Affective Behavior Analysis in-the-wild (ABAW) Challenge - CVPR Workshop 2022
+    company: ''
     company_url: ''
     company_logo:  org-x
-    location: Ho Chi Minh, Vietnam.
-    date_start: '2018-10-01'
-    date_end: '2021-01-31'
+    location: New Orleans, USA.
+    date_start: ''
+    date_end: '2022-06-19'
     description: |2-
-        * Research and development of tools based on potential software.
-        * R&D automation scripts and tools inside and outside a 3D application to help the artist can be quickly worked on.
-        * Installation and troubleshooting of software, plugins, and scripts.
-        * Supporting producers and team leaders in training for newbies.
+        *  Nguyen, Hong-Hai, V.-T. Huynh, and S.-H. Kim, “An ensemble approach for facial behavior analysis in-the-wild video,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop, 2022, pp. 2512–2517.
 
-  - title: Intership
-    company: Global Cybersoft Vietnam
+  - title: International Conference on Smart Media & Applications 2021.
+    company: ''
     company_url: ''
-    company_logo: org-x
-    location: Ho Chi Minh, Vietnam.
-    date_start: '2017-07-01'
-    date_end: '2027-09-01'
+    company_logo: ''
+    location: Gunsan, South Korea.
+    date_start: ''
+    date_end: '2022-09-20'
     description: |2-
-        *  Motorcycle detection: Research histograms of oriented gradients (HOG), local binary patterns (LBP) features and support vector machines (SVM) for detection. 
+ 
+        * Nguyen, Hong-Hai, V.-T. Huynh, H.-J. Yang, G.-S. Lee, and S.-H.Kim, “Mafcl: Multimodal attention fusion with combined loss for sentiment recognition in stress-induced circumstances,” in Proc. Int. Conf. Smart Media and Applications (SMA2021), Sep. 2021., 2021, pp. 16–19.
 
 design:
   columns: '1'
