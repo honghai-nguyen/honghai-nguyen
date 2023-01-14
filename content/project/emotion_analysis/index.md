@@ -6,4 +6,6 @@ tags:
   - Computer Vision
 date: 2022-04-01
 external_link: ''
+description: |2-
+        *  Motorcycle detection: Research histograms of oriented gradients (HOG), local binary patterns (LBP) features and support vector machines (SVM) for detection. 
 ---
