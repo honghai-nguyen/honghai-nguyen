@@ -51,3 +51,5 @@ item:
 design:
   columns: '1'
 ---
+
+![sma2022_cer](sma2022_cer.pdf)
