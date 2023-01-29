@@ -33,11 +33,13 @@ external_link: ''
   **Input:**
   
   >Task 1: Videos of around 2.8M frames will be used that contain annotations in terms of valence and arousal.
+  
   >Task 2: Videos of around 2.7M frames will be used that contain annotations in terms of 12 action units, namely AU1, AU2, AU4, AU6, AU7, AU10, AU12, AU15, AU23, AU24, AU25, AU26.
 
   **Output:**
   
   > Task 1: Predicts valence and arousal.
+  
   > Task 2: Predicts 12 action units.
 
   **Results:** The paper was accepted at the 3rd Affective Behavior Analysis in-the-wild (ABAW3) 2022 challenge - CVPR workshop and got the **third place** for both tasks.
