@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
 
   - title: AI Engineer
-    company: Innometry Company - South Korea
+    company: Innometry - South Korea
     company_url: ''
     company_logo:  org-x
     location: Hwaseong, South Korea.
