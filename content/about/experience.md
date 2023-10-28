@@ -33,6 +33,7 @@ experience:
  
         * Image enhancement: Convert x-ray image (32bit) from High Range Dynamic to Low Range Dynamic for display on the device (8bit). 
         * Object detection: Using Deep Learning method for detection of elements battery.
+    
   - title: Master’s Student
     company: Chonnam National University
     company_url: ''
