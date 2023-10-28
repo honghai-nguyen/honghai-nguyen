@@ -61,7 +61,7 @@ experience:
         * Installation and troubleshooting of software, plugins, and scripts.
         * Supporting producers and team leaders in training for newbies.
 
-  - title: Intership
+  - title: Internship
     company: Global Cybersoft Vietnam
     company_url: ''
     company_logo: org-x
