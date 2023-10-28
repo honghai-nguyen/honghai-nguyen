@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: M.E. in Artificial Intelligence
+  - title: M.S. in Artificial Intelligence
     company: Chonnam National University, South Korea.
     company_url: ''
     company_logo: chonnam
     location: Gwangju, South Korea.
     date_start: '2021-03-01'
-    date_end: '2023-02-01'
+    date_end: '2023-02-28'
     description: |2-
         *  GPA: 4.29/4.5
         *  Thesis title: Multi-space Fusion for Mental Workload Estimation based on Physiological Signal.
