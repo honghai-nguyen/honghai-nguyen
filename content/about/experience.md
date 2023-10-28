@@ -22,13 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: AI Engineer
+    company: Innometry Company - South Korea
+    company_url: ''
+    company_logo: org-x
+    location: Hwaseong, South Korea.
+    date_start: '2023-03-01'
+    date_end: 'Present'
+    description: |2-
+ 
+        * Image enhancement: Convert x-ray image (32bit) from High Range Dynamic to Low Range Dynamic for display on the device (8bit). 
+        * Object detection: Using Deep Learning method for detection of elements battery.
   - title: Master’s Student
     company: Chonnam National University
     company_url: ''
     company_logo: chonnam
-    location: Gwanju, South Korea.
+    location: Gwangju, South Korea.
     date_start: '2021-03-01'
-    date_end: '2021-02-28'
+    date_end: '2023-02-28'
     description: |2-
  
         * Mental Workload Estimation: Experiment with STEW dataset. We conducted experiments on classification and regression for Mental workload.
