@@ -22,13 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
   - title: AI Engineer
     company: Innometry Company - South Korea
     company_url: ''
-    company_logo: org-x
+    company_logo:  org-x
     location: Hwaseong, South Korea.
     date_start: '2023-03-01'
-    date_end: 'Present'
+    date_end: Present
     description: |2-
  
         * Image enhancement: Convert x-ray image (32bit) from High Range Dynamic to Low Range Dynamic for display on the device (8bit). 
