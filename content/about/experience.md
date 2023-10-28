@@ -29,7 +29,7 @@ experience:
     company_logo:  org-x
     location: Hwaseong, South Korea.
     date_start: '2023-03-01'
-    date_end: Present
+    date_end: ''
     description: |2-
  
         * Image enhancement: Convert x-ray image (32bit) from High Range Dynamic to Low Range Dynamic for display on the device (8bit). 
