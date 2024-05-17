@@ -29,11 +29,13 @@ experience:
     company_logo:  org-x
     location: Hwaseong, South Korea.
     date_start: '2023-03-01'
-    date_end: ''
+    date_end: '2024-03-29'
     description: |2-
  
-        * Image enhancement: Convert x-ray image (32bit) from High Range Dynamic to Low Range Dynamic for display on the device (8bit). 
-        * Object detection: Using Deep Learning method for detection of elements battery.
+        * Data preparation: Collect and label data from the data generation step. Clean and check the data set for missing or incomplete before the training step.
+        * Image enhancement: Convert X-ray image from High Dynamic Range (32bit) to Low Dynamic Range (8bit) for display on the device.
+        * Object detection: Using Image Processing and Deep Learning algorithms for detection of elements battery.
+        * Deployment and improvement: Integrate and test model in real-time on the machine in the factory. Ongoing improvement to adapt to new data and conditions
     
   - title: Master’s Student
     company: Chonnam National University
