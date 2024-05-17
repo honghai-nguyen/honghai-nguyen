@@ -64,7 +64,7 @@ social:
 #email: ""
 ---
 <div align="justify">
-Hong-Hai Nguyen received his B.S. degree from the Department of Mathematics and Computer Science, Ho Chi Minh City University of Science (VNUHCM), Vietnam, in 2018. He joined [PR lab](https://prlabjnu.github.io) <link rel="PRLab" href="https://prlabjnu.github.io"> in March 2021. He received his M.S. degree from the Department of Artificial Intelligence Convergence at Chonnam National University, South Korea, in 2023. His research interests include Pattern Recognition, Sentiment Analysis, and Cognitive Load.
+Hong-Hai Nguyen received his B.S. degree from the Department of Mathematics and Computer Science, Ho Chi Minh City University of Science (VNUHCM), Vietnam, in 2018. He joined <a href="https://prlabjnu.github.io">PRLab</a> in March 2021. He received his M.S. degree from the Department of Artificial Intelligence Convergence at Chonnam National University, South Korea, in 2023. His research interests include Pattern Recognition, Sentiment Analysis, and Cognitive Load.
 </div>
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
