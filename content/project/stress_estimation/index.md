@@ -4,7 +4,7 @@ summary: Sentiment analysis is an aspect momentous for application in the future
     
 tags:
   - Computer Vision
-date: 2021-009-01
+date: 2021-09-01
 external_link: ''
 --- 
 <div align="justify">
